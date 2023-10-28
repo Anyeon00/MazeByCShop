@@ -1,0 +1,15 @@
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\obj\Debug\net6.0\MazeProgram3.csproj.AssemblyReference.cache
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\obj\Debug\net6.0\MazeProgram3.GeneratedMSBuildEditorConfig.editorconfig
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\obj\Debug\net6.0\MazeProgram3.AssemblyInfoInputs.cache
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\obj\Debug\net6.0\MazeProgram3.AssemblyInfo.cs
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\obj\Debug\net6.0\MazeProgram3.csproj.CoreCompileInputs.cache
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\bin\Debug\net6.0\MazeProgram3.exe
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\bin\Debug\net6.0\MazeProgram3.deps.json
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\bin\Debug\net6.0\MazeProgram3.runtimeconfig.json
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\bin\Debug\net6.0\MazeProgram3.dll
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\bin\Debug\net6.0\MazeProgram3.pdb
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\obj\Debug\net6.0\MazeProgram3.dll
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\obj\Debug\net6.0\refint\MazeProgram3.dll
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\obj\Debug\net6.0\MazeProgram3.pdb
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\obj\Debug\net6.0\MazeProgram3.genruntimeconfig.cache
+D:\user\Desktop\c#파일\MazeProgram3\MazeProgram3\obj\Debug\net6.0\ref\MazeProgram3.dll
